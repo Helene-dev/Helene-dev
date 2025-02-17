@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @Helene-dev
-- 👀 I’m interested in web development and the IT environment.
-- 🌱 I’m currently learning JavaScript, python and PHF.
-- 💞️ I’m looking to collaborate on projects, participate in hackathons in order to improve myself.
-- 📫 How to reach me, I can be reached at the email address helendadjo@gmail.com and Hélène DADJO on LinkedIn. You can also contact me via Whatsapp on the number 68832155.
-- 😄 Pronouns: Léna
-- ⚡ Fun fact: ..I don't know.
+
+# 👋 Hello, I'm Hélène Mahougnon DADJO!  
+
+## 🚀 MY PASSIONS  
+Digital technology is at the heart of everything I love. I am passionate about web development and artificial intelligence, and I enjoy exploring technologies and creating innovative solutions. My interest in mathematics and machine learning fuels my curiosity and desire to learn.  
+
+## 💻 TECHNOLOGIES I MASTER  
+I primarily work with **HTML, CSS, JavaScript**, as well as frameworks like **React** and **Node.js**. I also have a foundation in **Python** and am exploring **machine learning**.  
+
+## 💼 MY EXPERIENCE  
+I am a student in **Mathematics, Computer Science, and Applications (MIA)** at **FAST-UAC**, and I develop web projects independently. I also participate in group projects.  
+
+## 🎯 MY GOALS  
+I aim to become an expert in web development and machine learning to create innovative solutions to solve critical global issues.  
+
+## 🎨 MY INTERESTS  
+Outside of digital technology, I enjoy **reading**, **sharing knowledge**, and attending **tech events**. I am also interested in topics related to **innovation and the impact of digital technology on society**.  
+
+📫 **Contact me**: 
+LinkedIn : https://www.linkedin.com/in/hélène-mahougnon-396074345
+Email : helendadjo@gmail.com 
+WhatsApp :+2290168832155
+
+##😄 Pronouns: Léna
+
 
 <!---
 Helene-dev/Helene-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
